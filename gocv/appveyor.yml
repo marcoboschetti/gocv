@@ -1,6 +1,6 @@
 version: "{build}"
 
-clone_folder: c:\gopath\src\gocv.io\x\gocv
+clone_folder: c:\gopath\src\github.com\marcoboschetti\gocv
 
 platform:
   - MinGW_x64
